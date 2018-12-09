@@ -1,14 +1,17 @@
 # Udacity Carnival
-Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr) program.
+Starter project for the Udacity [VR Developer Nanodegree](https://br.udacity.com/course/vr-developer-nanodegree--nd017) program.
 
 - Course: Introduction to Virtual Reality
 - Project: Udacity Carnival
 
+### Summary
+The Udacity Carnival consists of 3 Mini-Games: Plinko, Wheel of Fortune, and Coin Toss. With each game, you earn points. When you earn 2000 points, you will receive a virtual classic Carnival prize!
+
 
 ### Versions Used
-- [Unity LTS Release 2017.4.15](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
+- [Unity LTS Release 2018.2](https://store.unity.com/pt/download?ref=personal)
 - [GVR SDK for Unity v1.170.0](https://github.com/googlevr/gvr-unity-sdk/releases/tag/v1.170.0)
-- [TextMesh Pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126) v1.2.2
+- TextMesh Pro (Native in 2018.2 version)
 
 
 ### Directory Structure
