@@ -2,6 +2,7 @@
 using UnityEngine;
 using TMPro;
 
+
 public class CarnivalNeedle : MonoBehaviour {
 
     public Animator tickAnimation;
