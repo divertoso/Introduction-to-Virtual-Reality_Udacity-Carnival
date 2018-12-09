@@ -57,7 +57,7 @@ Open Unity, then press Unity's Open button, select the Udacity-Carnival.
 Hover the circle to the Plinko booth, the circle will grow, you'll notice a ball is oscillating left and right, tap the screen when you want to release the ball.
 
 #### Wheel of Fortune
-![Wheel of Fortune](https://user-images.githubusercontent.com/13722768/49697749-407ce200-fba2-11e8-9586-5c7b6ad725bd.jpg)
+![Wheel of Fortune]((https://user-images.githubusercontent.com/13722768/49698157-37dada80-fba7-11e8-8f7d-5c93f973c073.jpg)
 Hover the circle in the center of the wheel, you'll notice the circle becomes big, then tap the screen and the wheel will spin and then land on one of the wedges.
 
 #### Coin Toss
